@@ -28,7 +28,7 @@
     </a> 
     <span>&nbsp;&nbsp;</span>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -36,11 +36,11 @@
     </a> 
     <span>&nbsp;&nbsp;</span>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.cdnlogo.com/logos/r/18/react-native.svg" alt="react-native" width="45" height="45"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
     </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
     </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -52,7 +52,7 @@
     </a> 
     <span>&nbsp;&nbsp;</span>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="sqlite" width="40" height="40"/> 
     </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
