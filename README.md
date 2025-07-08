@@ -26,11 +26,22 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
-    
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.cdnlogo.com/logos/r/85/react.svg" alt="react" width="40" height="40"/> 
     </a> 
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.cdnlogo.com/logos/r/18/react-native.svg" alt="react-native" width="45" height="45"/> 
+    </a>
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -39,7 +50,10 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
-    
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+    </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -67,16 +81,18 @@
 
   <tr>
     <td>
-      <a href="https://github.com/AbhiChavan02/Clothing-Website" target="_blank"><strong>Clothing Website</strong></a><br />
+      <a href="https://github.com/thesopan21/social-ecommerce-app" target="_blank"><strong>Social Shopping App</strong></a><br />
     </td>
     <td>
-      React JS, <br />
-      Tailwind CSS, <br />
-      Node.JS, <br />
-      MongoDB, <br />
+      React Native, <br />
+      TypeScript, <br />
+      Redux Toolkit, <br />
+      RTK Query, <br />
       React Navigation, <br />
-      Context API
-
+      Context API, <br />
+      FCM, <br />
+      Razorpay, <br />
+      Firebase
     </td>
     <td>
      Developed a scalable mobile e-commerce app with fast load times and smooth UI transitions using React Native & TypeScript.<br />
@@ -89,7 +105,60 @@
     </td>
   </tr>
 
-  
+  <tr>
+    <td>
+      <a href="https://github.com/thesopan21/admin-dashboards" target="_blank"><strong>Admin Dashboards (Web App)</strong></a>
+    </td>
+    <td>
+      React.js, <br />
+      Tailwind CSS, <br />
+      Context API
+    </td>
+    <td>
+      Built responsive dashboard components using React.js and Tailwind CSS, improving UI consistency and load performance.<br />
+      Managed authentication and theme preferences globally using React Context API.<br />
+      Collaborated with backend and product teams to design scalable frontend architecture for data visualizations.<br />
+      Created reusable, accessible UI components and improved performance with memoization techniques.<br />
+      Streamlined data binding and reduced re-render overhead in dynamic table and chart components.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/thesopan21/short-video-app" target="_blank"><strong>Short Video App</strong></a>
+    </td>
+    <td>
+      React Native,<br />
+      Redux Toolkit,<br />
+      Firebase, <br />
+      React Navigation
+    </td>
+    <td>
+      Developed a short video platform with feed, upload, and profile screens mimicking TikTok-style UI.<br />
+      Used ffmpeg-kit to compress and upload videos, and react-native-video for adaptive streaming playback.<br />
+      Implemented navigation flows with stack navigators and custom screen transitions using React Navigation.<br />
+      Integrated Firebase Auth and Firestore to manage user identity and video metadata.<br />
+      Optimized performance using lazy loading and memoization to ensure smooth scroll and transitions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/thesopan21/social-chat-app" target="_blank"><strong>Social Chat Application</strong></a>
+    </td>
+    <td>
+      React Native, <br />
+      WebSocket (Frontend),<br />
+      Context API
+    </td>
+    <td>
+     Built a real-time messaging app with individual and group chat support using frontend-only WebSocket implementation.<br />
+      Created All-Users screen with active presence indicator and individual chat screen with message threading.<br />
+      Used Context API to manage authentication state and chat session persistence.<br />
+      Designed responsive chat bubbles, emoji support, timestamping, and read receipts.<br />
+      Optimized rendering performance and reduced message latency through efficient event handling.
+    </td>
+  </tr>
 </table>
 
 
