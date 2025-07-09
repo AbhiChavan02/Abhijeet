@@ -81,7 +81,7 @@
 
   <tr>
     <td>
-      <a href="https://github.com/thesopan21/social-ecommerce-app" target="_blank"><strong>Social Shopping App</strong></a><br />
+      <a href="https://github.com/AbhiChavan02/Clothing-Website" target="_blank"><strong>E-Commerce Website</strong></a><br />
     </td>
     <td>
       React Native, <br />
