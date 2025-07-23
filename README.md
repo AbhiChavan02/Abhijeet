@@ -4,7 +4,8 @@
 -->
 <h3> Profile Visitors (All Time): </h3>
 
-![Visitor Count](https://profile-counter.glitch.me/AbhiChavan02/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=AbhiChavan02&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <h2 align="left"> 🔥 My Stats </h2>
 <div align="center">
