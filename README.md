@@ -96,10 +96,9 @@
       Firebase
     </td>
     <td>
-     Developed a scalable mobile e-commerce app with fast load times and smooth UI transitions using React Native & TypeScript.<br />
+     Developed a scalable mobile e-commerce app with fast load times and smooth UI transitions using React<br />
       Implemented nested navigation flows using React Navigation with deep linking and tab/drawer/stack navigators.<br />
       Used Context API for managing authentication flow and theme switching (dark/light) across the app.<br />
-      Integrated Razorpay for secure in-app transactions and optimized the checkout experience.<br />
       Built in-app video feed and upload functionality using ffmpeg-kit and react-native-video, with adaptive playback.<br />
       Implemented real-time push notifications via Firebase Cloud Messaging (FCM) for user engagement.<br />
       Mentored a frontend intern on modular component architecture, API integration, and best coding practices.
