@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AbhiChavan02&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 
-<h2 align="left">🛠️ Skills & Expertise</h2>
+<h2 align="left">🛠️ Skill & Expertise</h2>
     <span>&nbsp;&nbsp;</span>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
